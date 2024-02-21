@@ -33,5 +33,5 @@ cd ursa
 
 make install
 
-# testnet-flooki
+testnet-flooki
 for flooki testnet
